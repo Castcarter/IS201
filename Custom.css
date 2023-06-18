@@ -1,0 +1,61 @@
+.marginBottom {
+    margin-bottom: 500px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.background {
+    background-image:url(startbootstrap-personal-gh-pages/assets/movie-background-collage_23-2149876030.avif);
+}
+
+.fontcolor{
+    color: antiquewhite;
+}
+
+a {
+    color:rgb(255, 255, 255);
+    text-decoration: none;
+    text-align: center;
+}
+
+ol {
+    font-weight: bold;
+    font-size: large;
+}
+
+ul {
+    font-weight: normal;
+    font-size: small;
+    color:rgb(197, 183, 166) ;
+}
+
+a:hover {
+    font-size: 125%;
+}
+
+.header{
+    text-align: center;
+    color:aliceblue;
+    font-weight: bold;
+}
+
+.subheader{
+    text-align: center;
+    color:aliceblue;
+    font-size: 40pt;
+    font-weight: bold;
+    border-bottom: 1px solid;
+}
+
+.images {
+    padding-bottom: 60px;
+}
+
+.leftpadding {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.footer {
+    padding-top: 10px;
+    border-top: 1px solid;
+}

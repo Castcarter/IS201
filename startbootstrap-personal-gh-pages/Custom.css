@@ -1,0 +1,35 @@
+.marginBottom {
+    margin-bottom: 500px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.background {
+    background-image:url(startbootstrap-personal-gh-pages/assets/movie-background-collage_23-2149876030.avif);
+}
+
+.fontcolor{
+    color: rgb(0, 255, 21);
+}
+
+
+ol {
+    font-weight: bold;
+    font-size: large;
+}
+
+ul {
+    font-weight: normal;
+    font-size: small;
+    color:rgb(197, 183, 166) ;
+}
+
+a:hover {
+    font-size: 125%;
+}
+
+.header{
+    text-align: right;
+    font-size: 32pt;
+    font-weight: bold;
+    border-bottom: 1px solid;
+}
